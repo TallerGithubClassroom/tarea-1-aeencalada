@@ -1,0 +1,1 @@
+SELECT sydate FROM dual;
